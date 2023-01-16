@@ -10,12 +10,6 @@
 
 <br>
 
-<p align="center">
-  <a href="#-resource-links">Resources Used</a>
-</p>
-
-<br>
-
 ## 🔗 Resources Used
 
 - 🤖 OpenAI: [GPT-3](https://openai.com/api/)
