@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/emanbau"><img src="./assets/On-GPT-3-OpenAI-and-APIs.png" height="200" alt="GPT-3man Bot"></a>
+  <a href="https://github.com/emanbau"><img src="./assets/On-GPT-3-OpenAI-and-APIs.png" height="400" alt="GPT-3man Bot"></a>
   <br>
    GPT-3man Bot
   <br>
